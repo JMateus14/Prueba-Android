@@ -6,7 +6,8 @@ public class freddy {
         int Fuerza = 23, Destreza = 25, Constitucion = 12, Inteligencia = 19, Sabiduria = 21, Carisma = 20;
 
         System.out.println("--------------------------------");
-        System.out.printf("| %-28s |\n", Raza);
+        System.out.printf("| %-28s |\n", Tipo
+                         );
         System.out.printf("| %-28s |\n", Nom);
         System.out.println("--------------------------------");
         System.out.printf("| Fuerza%22d |\n", Fuerza);
