@@ -1,0 +1,27 @@
+{
+  "Personaje": {
+    "Nombre": "Romo",
+    "Nivel": 50,
+    "Armadura": "Espada de diamante ",
+    "Clases": ["guerrero", "magico","mistico","ladrón"]
+  },
+
+  "Personaje2":{
+    "Nombre":"Kapo",
+    "Nivel": 40,
+    "Armadura": "Ceremonial",
+    "Clase": ["Ingeniero","Guerrero"]
+  },
+  "Personaje3": {
+    "Nombre":"LitGirl",
+    "Nivel": 14,
+    "Armadura": "Catana de madera",
+    "Clase": ["Guerrero","Brujo"]
+  },
+  "Personaje4":{
+    "Nombre": "Marteen",
+    "Nivel": 22,
+    "Armadura":"Varia Suid",
+    "Clase":["Mago, Mistico"]
+  }
+}
